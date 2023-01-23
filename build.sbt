@@ -33,7 +33,6 @@ lazy val core = project
     libraryDependencies ++= Seq(
       Libraries.cats,
       Libraries.catsEffect,
-
       Libraries.munitCore % Test,
       Libraries.munitEffects % Test
     )
