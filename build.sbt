@@ -2,7 +2,7 @@ import Dependencies._
 
 ThisBuild / tlBaseVersion := "0.1"
 
-ThisBuild / organization := "com.rsemlal"
+ThisBuild / organization := "io.github.rsemlal"
 ThisBuild / organizationName := "Reda Semlal"
 ThisBuild / startYear := Some(2023)
 ThisBuild / licenses := Seq(License.Apache2)

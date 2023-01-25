@@ -8,6 +8,6 @@ To use the latest version, include the following in your `build.sbt`:
 
 ```scala
 libraryDependencies ++= Seq(
-  "com.rsemlal" %% "clickhouse4cats" % "@VERSION@"
+  "io.github.rsemlal" %% "clickhouse4cats" % "@VERSION@"
 )
 ```
